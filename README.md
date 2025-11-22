@@ -1,6 +1,34 @@
 # Active-Recall-Scheduler
 This is a side project where I made an active recall scheduler for my Biochemistry, M1 and M2 (Development) modules for term 1 of my final year at University. I then began experimenting with interactive UI in Python, because I'm picky and wanted it to look nicer. 
-(This brought me so much joy)  
+(This brought me so much joy) 
+
+## Altered Module Lists:
+### M1:
+- Farr
+- Rosana+Antoine
+- Russel+Flicek
+- Segal
+
+### Biochem:
+- Transcription
+- Chromatin
+- RNA-localisation
+- Alternative-Splicing
+- Translation-I
+- RNA-Turnover
+- Translation-II+Small-RNAs
+- Nuclear-Coordination
+
+  ### Development:
+  - Santos+Scarpa
+  - StJohnson
+  - Sanson
+  - Ahringer
+  - Steventon
+  - Boroviak
+  - Clark
+  - Teixera
+
 # Basic Rules:  
 - Modules are the lists and the topics within them are the list components
     - The length of module lists were altered prior to creating the scheduler
