@@ -1,5 +1,5 @@
 # Active-Recall-Scheduler
-A side project where I made an active recall scheduler for my Biochemistry, M1 and M2 (Development) modules, and then began experimenting with interactive UI in Python.  
+This is a side project where I made an active recall scheduler for my Biochemistry, M1 and M2 (Development) modules for term 1 of my final year at University. I then began experimenting with interactive UI in Python, because I'm picky and wanted it to look nicer. 
 (This brought me so much joy)  
 # Basic Rules:  
 - Modules are the lists and the topics within them are the list components
