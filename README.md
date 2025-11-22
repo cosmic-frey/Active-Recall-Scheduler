@@ -19,15 +19,15 @@ This is a side project where I made an active recall scheduler for my Biochemist
 - Translation-II+Small-RNAs
 - Nuclear-Coordination
 
-  ### Development:
-  - Santos+Scarpa
-  - StJohnson
-  - Sanson
-  - Ahringer
-  - Steventon
-  - Boroviak
-  - Clark
-  - Teixera
+### Development:
+- Santos+Scarpa
+- StJohnson
+- Sanson
+- Ahringer
+- Steventon
+- Boroviak
+- Clark
+- Teixera
 
 # Basic Rules:  
 - Modules are the lists and the topics within them are the list components
